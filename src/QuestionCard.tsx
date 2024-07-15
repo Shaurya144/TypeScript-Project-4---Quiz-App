@@ -4,6 +4,7 @@ import { AnswerObject } from '../App';
 // Styles
 import { Wrapper, ButtonWrapper } from './QuestionCard.styles';
 
+// just some comments
 type Props = {
   question: string;
   answers: string[];
